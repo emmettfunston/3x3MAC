@@ -1,0 +1,4 @@
+# Local simulator output
+mac_array_3x3_tb
+*.vcd
+*.fst
